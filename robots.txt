@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dgbhp9jnvc-dev.github.io/nec-civil-civil-rural-license-prep/sitemap.xml
